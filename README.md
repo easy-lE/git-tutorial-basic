@@ -9,5 +9,6 @@ Cuarto cambio en visualStudio CodeS
 
 :D
 commit desde visual Studio 26 junio 08:44
-crtl +s -> guarda  
+crtl +s -> guarda
 
+easy-E B)
